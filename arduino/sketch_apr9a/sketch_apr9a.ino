@@ -7,6 +7,7 @@
 #include <DHT.h>
 #include <time.h>
 
+
 #define WIFI_SSID "Cristian's WIFI 2.4GHz"
 #define WIFI_PASSWORD "19722508"
 #define API_KEY "AIzaSyD2eMaEgXFGrDWyI-vFEyS5nhxU3JbNCuM"
